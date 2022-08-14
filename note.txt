@@ -5,3 +5,6 @@
 - class pattern is a design pattern that restricts the instantiation of a class to one object
 - constructor pattern is a design pattern that restricts the instantiation of a class to one object
 - factories pattern is a design pattern that restricts the instantiation of a class to one object
+- abstract factory pattern is a design pattern that restricts the instantiation of a class to one object and 
+allows you to create different types of objects.
+- 
