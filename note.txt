@@ -1,0 +1,7 @@
+- class is a blueprint for an object
+- constructor is a method that is called when you create a new instance of a class
+- super is a reference to the parent class 
+- singleton pattern is a design pattern that restricts the instantiation of a class to one object
+- class pattern is a design pattern that restricts the instantiation of a class to one object
+- constructor pattern is a design pattern that restricts the instantiation of a class to one object
+- factories pattern is a design pattern that restricts the instantiation of a class to one object
